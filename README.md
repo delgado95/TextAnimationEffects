@@ -1,2 +1,0 @@
-# TextAnimationEffects
-animation with css
